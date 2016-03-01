@@ -1,0 +1,9 @@
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/repository/OrcamentosRepository.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/controller/CadastroOrcamentoBean.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/util/TransacionalInterceptor.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/util/EntityManagerProducer.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/model/OrcamentoItem.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/model/Orcamento.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/util/Transacional.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/model/TipoItem.java
+/home/filipe/workspace/responsivePrimefaces/src/main/java/com/dev/comercial/service/GestaoOrcamentos.java
